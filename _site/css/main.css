@@ -1315,10 +1315,10 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #999;
+  border-bottom: 2px solid #b40101;
   border-radius: 0;
   min-height: 52px;
-  background: #ffffff;
+  background: #231f20;
   width: 100%;
   overflow: hidden; }
 
@@ -1337,7 +1337,7 @@ html[xmlns] .flexslider .slides {
 
 .navbar-left > li > a {
   background: transparent;
-  color: black;
+  color: white;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -1355,7 +1355,7 @@ html[xmlns] .flexslider .slides {
 
 .cta {
   background: transparent;
-  color: #123456;
+  color: white;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -2559,22 +2559,6 @@ form select {
       box-shadow: 0 0 0 #b40101;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
-
-.cta {
-  background: transparent;
-  color: #b40101;
-  text-transform: capitalize;
-  font-size: 2rem;
-  font-weight: 300; }
-  .cta:hover {
-    background: #eeeeee;
-    color: #810101; }
-  .cta:active {
-    text-decoration: none;
-    color: #b40101; }
-  .cta:focus {
-    text-decoration: none;
-    color: #b40101; }
 
 #myBtn {
   display: none;

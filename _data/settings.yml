@@ -9,10 +9,14 @@ custom_links:
     url: http://joshpainter.eventbrite.com/
   - title: Free Strategy Call
     url: /contact/
+  - title: Resources
+    url: /resources/
+  - title: About
+    url: /about/
 client:
   name: Josh Painter
   title:
-  license_number:
+  license_number: 'Lic # 01734694'
   about_markdown: |
     Josh Painter is founder of Temecula Impact Club, an organization that raised over $80,000 for local charities in 2017, and over $175,000 since inception.
 
@@ -32,7 +36,7 @@ client:
   phone2:
   phone2_type:
   email: jpainter78@gmail.com
-  url: http://www.impactca.com
+  url: http://morethanjustarealestateagent.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -85,7 +89,7 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /img/logo.jpg
   logo_width_number: 40
   hero_text: Temecula Real Estate Video Blog
   hero_background_hex: '#999'
