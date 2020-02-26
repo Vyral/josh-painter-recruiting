@@ -44,7 +44,7 @@ client:
     Weekly, Valley News, and Real Producers Magazine.
   market: Southern California
   brand: Impact Real Estate
-  brokerage: Impact Real Estate
+  brokerage:
   address: '28693 Old Town Front St. Temecula, CA 92590'
   phone: 951-265-3524
   phone_type:
