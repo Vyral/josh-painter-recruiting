@@ -20,7 +20,7 @@ client:
   name: Josh Painter
   title:
   license_number: 'Lic # 01734694'
-  about_markdown: >
+  about_markdown: >-
     Josh Painter is founder of Temecula Impact Club, an organization that raised
     over $80,000 for local charities in 2017, and over $175,000 since inception.
 
@@ -36,15 +36,15 @@ client:
     to help local and national charities.
 
 
-    Impact Real Estate, with approximately 50 agents, was recently ranked #13 in
-    the State of California in sales.
+    Impact Real Estate, with approximately 50 agents, was recently ranked \#13
+    in the State of California in sales.
 
 
     Josh has been featured in Forbes magazine, Press Enterprise, Inland Empire
     Weekly, Valley News, and Real Producers Magazine.
-  market: Temecula
+  market: Southern California
   brand: Impact Real Estate
-  brokerage:
+  brokerage: Impact Real Estate
   address: '28693 Old Town Front St. Temecula, CA 92590'
   phone: 951-265-3524
   phone_type:
