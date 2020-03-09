@@ -75,9 +75,14 @@
 	        {% include socials.html %}
 	    </div>
 	  </div>
+		<p class="disclosure">
+			Josh Painter is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to <a href="http://amazon.com/" target="_blank">amazon.com</a>.
+		</p>
 	  <div class="attribution">
 			{% if site.data.settings.client.brand != null %}
-				<p>&copy;{{ site.time | date: '%Y' }} {{site.data.settings.client.brand}}</p>
+				<p>&copy;{{ site.time | date: '%Y' }} {{site.data.settings.client.brand}}<br>
+					<a href="https://www.impactca.com/site/privacy-terms" style="text-decoration:underline;" target="_blank">Privacy Policy</a>
+				</p>
 			{% else %}
 				<p>&copy;{{ site.time | date: '%Y' }} {{site.data.settings.client.name}}</p>
 			{% endif %}
@@ -100,3 +105,21 @@
 <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="/js/jquery.jplayer.min.js"></script>
 <script type="text/javascript" src="/js/media-player.js"></script>
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '516595739217017');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=516595739217017&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->

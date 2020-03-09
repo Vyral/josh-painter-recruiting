@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Temecula's Best Real Estate Training</title>
-    <description>Josh Painter, a top Real Estate Agent in Temecula, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
+    <title>Southern California's Best Real Estate Training</title>
+    <description>Josh Painter, a top Real Estate Agent in Southern California, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 25 Feb 2020 10:42:45 -0600</pubDate>
-    <lastBuildDate>Tue, 25 Feb 2020 10:42:45 -0600</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2020 16:35:31 -0500</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2020 16:35:31 -0500</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
   </channel>
