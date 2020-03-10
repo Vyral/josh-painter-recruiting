@@ -108,7 +108,7 @@ images:
   logo_width_number: 40
   hero_text: Temecula Real Estate Video Blog
   hero_background_hex: '#999999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /img/background1.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#b40101'
