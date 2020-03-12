@@ -1,7 +1,7 @@
 ---
 layout: resources
-title: Store
-permalink: /store/
+title: Resources
+permalink: /resources/
 ---
 
 ---
