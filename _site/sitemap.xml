@@ -19,13 +19,13 @@
 <loc>http://localhost:4000/join-our-team/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/resources/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/search.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/sign-up/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/store/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/strategy-call/</loc>

@@ -8,12 +8,8 @@ show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  - title: Events
-    url: 'http://joshpainter.eventbrite.com/'
   - title: Free Strategy Call
     url: /contact/
-  - title: Resources
-    url: /resources/
 client:
   name: Josh Painter
   title:
