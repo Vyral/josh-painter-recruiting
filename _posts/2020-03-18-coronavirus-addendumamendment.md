@@ -23,4 +23,4 @@ Rather than risk an uncertain outcome in court or arbitration over such disputes
 
 Can be used to remove the Notice to Perform and Demand to Close requirement.
 
-Can be used to allow buyer to cancel, even after having removed loan contingency.
+Can be used to allow buyer to cancel, even after having removed loan contingency.&nbsp;
