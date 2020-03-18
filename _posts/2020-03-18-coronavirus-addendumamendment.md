@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Coronavirus Addendum/Amendment
 date: 2020-03-18 13:00:00
 tags:
