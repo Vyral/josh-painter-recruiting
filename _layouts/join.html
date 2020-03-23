@@ -4,24 +4,49 @@
 {% include head.html %}
 
 	<body>
+		{% include fb.html %}
 		{% if site.data.settings.audit_header == true %}
 			{% include audit.html %}
 		{% endif %}
-		{% include navigation.html %}
 		{% include header.html %}
 		<div class="container-fluid">
 			<div class="row">
+				<div class="col-sm-12">
 
-					{{ content }}
-
-
-			<!-- Sidebar Content // Hidden on mobile -->
+					{% include navigation.html %}
+				</div>
 			</div>
+			<div class="row ">
+				<div class="col-sm-12 visible-xs visible-sm sidebar">
+					{% include socials.html %}
+					{% include search-box.html %}
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-lg-offset-1">
+					<h3 class="site-title">Helping Real Estate Agents Become Their Best Version Ever</h3>
+					{{ content }}
+				</div>
 			<div class="mobile sidebar">
 				{% include cta-sidebar.html %}
 			</div>
+
+			<!-- Sidebar Content // Hidden on mobile -->
+
+				<div class="col-md-5 col-lg-3 hidden-sm hidden-xs sidebar">
+					{% include socials.html %}
+					{% include search-box.html %}
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/Gjm9Kj51hiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<hr>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/X3McRa9VO4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					<hr>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/cdFWlxTHspU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+
 			</div>
 			{% include top-button.html %}
+			{% include bottom-navigation.html %}
 			{% include footer.html %}
   </body>
 </html>
