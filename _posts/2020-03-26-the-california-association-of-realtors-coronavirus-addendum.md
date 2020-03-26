@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The California Association of Realtors’ Coronavirus Addendum
-date: 2020-03-26 21:40:11
+date: 2020-03-26 21:40:00
 tags:
 excerpt: >-
   I’ve been getting a flood of questions about the new coronavirus addendum
@@ -38,4 +38,4 @@ Here’s what the addendum allows:&nbsp;
 
 If you have more specific questions on this or any other real estate topic, please feel free to reach out to me by phone or email. I’m happy to help you out and address your concerns.&nbsp;
 
-{% include full-post-cta.html %} {% include pullquote.html %}
+{% include full-post-cta.html %}&nbsp;
