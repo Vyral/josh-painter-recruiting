@@ -1,6 +1,8 @@
 ---
 layout: post
-title: California Association of Realtors Form CVA 3/20
+title: >-
+  Coronavirus Addendum/Amendment - California Association of Realtors Form CVA
+  3/20
 date: 2020-03-26 21:40:00
 tags:
 excerpt: >-
