@@ -10,6 +10,8 @@ custom_links:
     url: /join-our-team/
   - title: Free Strategy Call
     url: /contact/
+  - title: Free Newsletter
+    url: /subscribe/
 client:
   name: Josh Painter
   title:
